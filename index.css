@@ -1,0 +1,152 @@
+.div1{
+    border: 1px solid #FFFFFF;
+    margin: 20px;
+    box-shadow: 10px 10px 10px 10px cornsilk;
+}
+#peddle {
+    /*position: absolute;*/
+font-family: Ranchers;
+font-style: normal;
+font-weight: normal;
+/*font-size: 20px;
+padding-top: 0px;
+padding-left: 10px;*/
+color: #BA55D3;
+
+
+}
+.butt {
+ background-color:  #BA55D3;
+ padding-left: 20px;
+ margin-left: 50px;
+ color: #FFFFFF;
+}
+
+#link1 {
+    justify-content: center;
+    /*text-decoration: none;*/
+    font-size: 16px;
+    line-height: 19px;
+    font-family: Rubik;
+    color: #4F5665;
+    ;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sign {
+    padding-right: 10px;
+    text-align: right;
+    display: inline;
+    position: relative;;
+}
+.row1 {
+    margin-top: 50px;
+}
+.aspire {
+    Font: Rubik;
+    font-weight: bold;
+    color: #0B132A;
+    text-shadow: 0px 2px 4px #BA55D3;
+    
+}
+.devguy {
+    width:500px;
+    height:400px;  
+}
+.piano{
+    width:400px;
+    height:300px;
+}
+
+.iconrow {
+    margin: 50px 50px 50px 80px;
+}
+.icon1 {
+    font-size:20px;
+    color:#BA55D3;
+}
+.plan {
+    text-align: center;
+}
+.longdiv {
+    border: 1px solid #BA55D3;
+    height: 500px;
+    width: 100x;
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-right: 50px;
+        
+}
+.image-logo {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.warsawdiv{
+    border: 1px solid #BA55D3;
+    height: 150px;
+    width: 100x;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.arrowdiv {
+    margin-left: 20px; 
+    padding-top: 20px;
+}
+.subdiv {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.pebblehead {
+    font-family: Ranchers;
+font-style: normal;
+font-weight: normal;
+/*font-size: 20px;
+padding-top: 0px;
+padding-left: 10px;*/
+color: #BA55D3;
+}
+.pebblediv {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.listdiv{
+    margin-top: 40px;
+}
+.people {
+    font-size: 10px;
+}
+.planlist {
+    font-size: 14px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 900px) {
+ .devguy  {
+     width: 300px;
+     height: 300;
+ } 
+ .piano {
+     width: 250px;
+     height: 150px;
+ } 
+ p {
+     font-size: xx-small;
+ } 
+ .people {
+     font-size: 6px;
+    }
+.image-logo {
+    width: 100%;
+}
+.planlist {
+    font-size: 12px;
+}
+h4 {
+    font-size: 16px;
+}
+}
