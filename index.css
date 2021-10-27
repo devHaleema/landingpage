@@ -1,10 +1,10 @@
 .container {
     display: grid;
      border: 1px solid #FFFFFF;
-    margin-left: 0px;
-    margin-right: 20px;
-    padding: 20px;
-    box-shadow: 20px 20px 10px 10px rgb(238, 238, 237); 
+    margin: auto;
+    max-width: 906px;
+    padding: 100px;
+    
 }
 /* .div1{
     border: 1px solid #FFFFFF;
@@ -12,7 +12,7 @@
     box-shadow: 10px 10px 10px 10px cornsilk;  
     
 } */
-#peddle {
+.peddle {
     /*position: absolute;*/
 font-family: Ranchers;
 font-style: normal;
@@ -27,7 +27,7 @@ color: #BA55D3;
 .butt {
  background-color:  #BA55D3;
  padding-left: 20px;
- margin-left: 20px;
+ /* margin-left: 20px; */
  color: #FFFFFF;
 }
 
@@ -41,7 +41,7 @@ color: #BA55D3;
     ;
 }
 
-a {
+.toplink {
     text-decoration: none;
 }
 
@@ -72,7 +72,7 @@ a {
 }
 
 .iconrow {
-    margin: 50px 50px 50px 80px;
+    padding: 50px 50px 50px 80px;
 }
 .icon1 {
     font-size:20px;
@@ -88,7 +88,7 @@ a {
     background: #FFFFFF;
     border-radius: 10px;
     box-sizing: border-box;
-    margin-right: 50px;
+    /* margin-right: 50px; */
     padding: 5px;
         
 }
@@ -103,15 +103,15 @@ a {
     width: 70x;
     background: #FFFFFF;
     border-radius: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     padding: 5px;
 }
 .arrowdiv {
-    margin-left: 20px; 
-    padding-top: 20px;
+    /* margin-left: 20px;  */
+    padding: 20px;
 }
 .subdiv {
-    margin-left: 20px;
+    /* margin-left: 20px; */
     margin-top: 40px;
 }
 .pebblehead {
@@ -124,7 +124,7 @@ padding-left: 10px;*/
 color: #BA55D3;
 }
 .pebblediv {
-    margin-left: 20px;
+    /* margin-left: 20px; */
     margin-top: 40px;
 }
 .listdiv{
