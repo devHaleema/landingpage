@@ -152,10 +152,10 @@ color: #BA55D3;
         height: 150px;
     }  
      p {
-        font-size: 12px;
+        font-size: 10px;
     } 
     .people {
-        font-size: 12px;
+        font-size: 10px;
        } 
     .image-logo {
        width: 100%;
@@ -169,10 +169,10 @@ color: #BA55D3;
    }
    .warsawdiv {
     height: 200px;
-    width: 450px;
+    width: 350px;
    }
        .longdiv {
-           width: 450px;
+           width: 350px;
        }
    }
 
